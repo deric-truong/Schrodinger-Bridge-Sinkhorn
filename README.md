@@ -54,7 +54,7 @@ The notebook is organized as follows:
 
 **Locally:**
 ```bash
-git clone https://github.com/<your-username>/schrodinger-bridge-sinkhorn.git
+git clone https://github.com/deric-truong/Schrodinger-Bridge-Sinkhorn.git
 cd schrodinger-bridge-sinkhorn
 pip install -r requirements.txt
 jupyter notebook sinkhorn_experiments.ipynb
